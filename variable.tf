@@ -20,5 +20,5 @@ variable "keypair" {
 
 variable "name" {
   type = string
-  default = "Jenkins"
+  default = "Jenkins-1"
 }
